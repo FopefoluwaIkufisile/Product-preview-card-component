@@ -91,6 +91,7 @@ body{
     align-items: center;
     width: 100%;
     gap: 25px;
+    font-weight: bold;
 }
 .price-cancel{
     color: var(--dark-grayblue);
